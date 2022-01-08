@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @baczy
-- 👀 I’m interested in ...Coding and gaming mostly :) 
+- 👋 Hi, I’m @Baczy
+- 👀 I’m interested in ...Coding, cooking, gaming mostly and many more stuff :) 
 - 🌱 I’m currently learning ... HTML / CSS / JS
 - 💞️ I’m looking to collaborate on ... some project soon
 - 📫 How to reach me ... baczygaming@gmail.com
